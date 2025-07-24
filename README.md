@@ -3,7 +3,7 @@ Lansing, MI | butsanae@msu.edu | [ebutsana.me](https://ebutsana.me)
 
 I am an undergraduate student at **Michigan State University**, pursuing a **Bachelor of Science in Electrical Engineering** with an additional major in **Computer Engineering**. My academic and professional interests center on embedded systems, edge AI, and efficient hardware-software co-design. I focus on building robust, deployable solutions under real-world constraints—balancing performance, reliability, and maintainability.
 
-Through roles in research labs, early-stage startups, and industry R&D teams, I’ve gained experience developing firmware, designing PCBs, deploying machine learning models to edge devices, and automating validation processes. These experiences have strengthened my system-level thinking and refined my ability to build solutions that are not just functional, but durable and production-ready.
+Through roles in research labs, early-stage startups, and industry R&D teams, I’ve gained experience developing firmware, designing PCBs, deploying machine learning models to edge devices, and automating validation processes. These experiences have strengthened my system-level thinking and refined my ability to build solutions that are not just functional, but durable and robust.
 
 ---
 
@@ -27,12 +27,5 @@ FreeRTOS, PyTorch, TensorRT, Git
 
 **Hardware & EDA Tools:**  
 ESP32-S2, Jetson AGX Orin, Altium Designer, Cadence Virtuoso, Cadence PSpice, KiCad, LTspice
-
----
-
-## Interests & Goals
-
-I’m particularly drawn to solving engineering problems that require integration across domains—where physical systems meet computation. Whether it’s designing firmware for real-time systems, deploying ML models to embedded platforms, or building tools that support reliability and maintainability, I’m focused on delivering well-rounded, production-oriented results.
-
 
 ---
