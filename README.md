@@ -27,5 +27,3 @@ FreeRTOS, PyTorch, TensorRT, Git
 
 **Hardware & EDA Tools:**  
 ESP32-S2, Jetson AGX Orin, Altium Designer, Cadence Virtuoso, Cadence PSpice, KiCad, LTspice
-
----
